@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m  learning **python**
+- 🌱 I  possess strong   **python**  skills , with expertise in pandas, NumPy, and TensorFlow for data analytics and AI applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
